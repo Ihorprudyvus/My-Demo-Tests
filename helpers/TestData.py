@@ -1,0 +1,7 @@
+project_name = 'Untitled'
+blue_color = '0000FF'
+green_color = '228B22'
+yellow_color = 'FFD700'
+red_color = 'B22222'
+black_color = '000000'
+opacity_level = '50'
